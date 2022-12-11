@@ -10,8 +10,9 @@ int main()
     {
         
     if (indexx<=index)
-    {
+     {
          cout<<"*";
+
     }
     
     cout<<" ";
