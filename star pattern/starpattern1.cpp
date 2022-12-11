@@ -4,7 +4,7 @@ int main()
 {
     int index;
     int indexx;
-    for (index=0; index <12; index++)
+    for (index=0; index <5; index++)
     {
       for (indexx = 0; indexx <5; indexx++)
     {
