@@ -18,10 +18,11 @@ int main()
               } 
               else{
                 cout<<alpha--;
-              }
+                  }
                
             }
-            else{
+            else
+            {
                 cout<<" ";
               
                 
